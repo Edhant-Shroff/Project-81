@@ -1,0 +1,17 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_background {
+	background-color:yellow;
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+ border-style: groove;
+ border-width: 10px;
+ background-color: white;
+}
